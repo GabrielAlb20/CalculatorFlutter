@@ -39,7 +39,7 @@ Uma calculadora simples e estilosa feita com Flutter, com suporte a tema claro/e
 
 
 ## Estrutura 
-
+   ```bash
 lib/
  └── main.dart               # Código principal
      pubspec.yaml            # Dependências
