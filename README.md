@@ -41,6 +41,6 @@ Uma calculadora simples e estilosa feita com Flutter, com suporte a tema claro/e
 ## Estrutura 
 
 lib/
- └── main.dart          # Código principal
-pubspec.yaml            # Dependências
-assets/                 # (opcional para fontes ou imagens)
+ └── main.dart               # Código principal
+     pubspec.yaml            # Dependências
+     assets/                 # (fontes ou imagens)
